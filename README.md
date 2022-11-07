@@ -1,6 +1,4 @@
 # Priority Based Time Scheduling Simulator
-
-## Λειτουργικά Συστήματα
 ## Σταυρούλα Χριστοπούλου
 
 >### **Εντολή μεταγλώττισης**: make
